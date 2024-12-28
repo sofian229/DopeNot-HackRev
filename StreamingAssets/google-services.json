@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15108546867",
+    "project_id": "hackrev-dopenot",
+    "storage_bucket": "hackrev-dopenot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15108546867:android:3b99d67308f19ba2b11e46",
+        "android_client_info": {
+          "package_name": "com.TooReal.DopeNotHackRev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC95n3BBfkKvZwNRCbACnFbe03w0R5Y36A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
